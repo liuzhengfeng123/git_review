@@ -7,8 +7,4 @@
 我言秋日胜春朝
 晴空一鹤排云上
 
-<<<<<<< HEAD
 lzf love ty so much
-=======
-lzf love ty so much
->>>>>>> feature1
