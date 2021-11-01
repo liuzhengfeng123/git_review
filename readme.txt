@@ -6,3 +6,5 @@
 自古逢秋悲寂寥
 我言秋日胜春朝
 晴空一鹤排云上
+
+so beautiful it is true
